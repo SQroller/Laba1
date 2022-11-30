@@ -1,0 +1,3 @@
+C:/Users/coola/CLionProjects/labaMEPHI/Laba1/cmake-build-debug/CMakeFiles/Laba1.dir
+C:/Users/coola/CLionProjects/labaMEPHI/Laba1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/coola/CLionProjects/labaMEPHI/Laba1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
